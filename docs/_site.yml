@@ -1,0 +1,14 @@
+name: "test-website"
+navbar:
+  title: "Test website"
+left:
+  - text: "Home"
+href: index.html
+right: 
+  - icon: fa-envelope fa-lg
+href: mailto:<cats@catemail.com>
+  - icon: fa-github fa-lg
+href: http://github.com/benvduffin/
+  output:
+  html_document:
+  theme: superhero
